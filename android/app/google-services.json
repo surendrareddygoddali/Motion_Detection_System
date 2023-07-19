@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "12638523182",
+    "firebase_url": "https://gesturedata-76273.firebaseio.com",
+    "project_id": "gesturedata-76273",
+    "storage_bucket": "gesturedata-76273.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12638523182:android:1c8bee88796ffc3a1174bf",
+        "android_client_info": {
+          "package_name": "com.datacollection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12638523182-sjts19lmsfdrd2qu9gpruvb6mdegl7bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlM1nkmyETVjYGdyDIv777XSmfvgS8m14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12638523182-sjts19lmsfdrd2qu9gpruvb6mdegl7bd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "12638523182-o3kqb9nkfp37sa8sjq4k3ocqo2s4ok1i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.datacollection"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12638523182:android:67bf24df2460ed1a1174bf",
+        "android_client_info": {
+          "package_name": "com.example.firestore_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12638523182-sjts19lmsfdrd2qu9gpruvb6mdegl7bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlM1nkmyETVjYGdyDIv777XSmfvgS8m14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12638523182-sjts19lmsfdrd2qu9gpruvb6mdegl7bd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "12638523182-o3kqb9nkfp37sa8sjq4k3ocqo2s4ok1i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.datacollection"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12638523182:android:9b8cad89db2ad0011174bf",
+        "android_client_info": {
+          "package_name": "com.example.gesture_collection_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12638523182-sjts19lmsfdrd2qu9gpruvb6mdegl7bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlM1nkmyETVjYGdyDIv777XSmfvgS8m14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12638523182-sjts19lmsfdrd2qu9gpruvb6mdegl7bd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "12638523182-o3kqb9nkfp37sa8sjq4k3ocqo2s4ok1i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.datacollection"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
